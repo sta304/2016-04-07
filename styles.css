@@ -1,0 +1,17 @@
+p, li, pre {
+    color: black;
+}
+
+td {
+    color: black;
+}
+
+td, tr, th {
+  color: black !important;
+  background:white !important;
+  padding: 15px !important;
+}
+
+.rmdtable {
+  border-top: 1px solid #797979
+}
