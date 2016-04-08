@@ -167,7 +167,7 @@ $m_i$ - $i^{th}$ cluster size (number of elements in cluster $i$)
 
 $\bar m = \frac{1}{n}\sum_{i=1}^n m_i$ - the *sample* average cluster size
 
-$M = \frac{1}{N}\sum_{i=1}^n m_i$ - the number of elements in the population
+$M =\sum_{i=1}^N m_i$ - the number of elements in the population
 
 $\bar M = M\big/N$ - the average cluster size for the population
 
